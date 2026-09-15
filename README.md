@@ -13,7 +13,6 @@ Currently studying at Istanbul Ticaret University and working at the intersectio
 ## What I focus on
 
 - Application and web security
-- Python, Flask, and Django development
 - Security-focused developer tooling
 - AI-assisted software engineering
 - Linux systems and network security
@@ -24,22 +23,9 @@ Currently studying at Istanbul Ticaret University and working at the intersectio
 - Deepening my knowledge of application security, secure software design, and Python-based backend development.
 - Leading student-driven artificial intelligence and data science initiatives at Istanbul Ticaret University.
 
-## Technologies
-
-`Python` · `Django` · `Flask` · `JavaScript` · `HTML/CSS` · `Tailwind CSS` · `Git` · `Linux` · `Docker` · `OpenCV`
-
-Security tools and practices: `Burp Suite` · `Nmap` · `OWASP Top 10` · `Web Application Testing` · `Threat Modeling`
-
 ## Community
 
 Founder and community lead of the Artificial Intelligence and Data Science Community at Istanbul Ticaret University, working on student-led events, collaboration, and technology projects.
-
-## Principles
-
-- Build useful software, not portfolio filler.
-- Treat security and privacy as design requirements.
-- Document decisions and make projects reproducible.
-- Learn by implementing, observing, breaking, and fixing.
 
 ---
 
